@@ -35,7 +35,7 @@ Make sure to have the following Python 3 dependencies installed before using the
 
 ### Create a new account
 ---
-![alt text](signup.png)
+![alt text](signupscr.png)
 ---
 ### Log in to an existing account
 ---
